@@ -1,0 +1,4 @@
+name: Drupal Meetup
+type: profile
+description: 'A distribution for building meetup event websites with Drupal.' 
+core_version_requirement: ^9
